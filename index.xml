@@ -1,43 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Patasi Carbon Bikes Repairs</title>
-    <link>https://durooravsky.github.io/</link>
-    <description>Recent content on Patasi Carbon Bikes Repairs</description>
+    <title>Patasi Carbon Bike Frames Repair</title>
+    <link>http://www.patasicarbon.ca/</link>
+    <description>Recent content on Patasi Carbon Bike Frames Repair</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://durooravsky.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>https://durooravsky.github.io/contact/</link>
-      <pubDate>Thu, 17 Jun 2021 14:47:42 -0400</pubDate>
-      
-      <guid>https://durooravsky.github.io/contact/</guid>
-      <description>Contact me at 613-111-1111
-My Address
- Smiths Falls, Ontario Canada</description>
-    </item>
-    
-    <item>
-      <title>Services</title>
-      <link>https://durooravsky.github.io/services/</link>
-      <pubDate>Thu, 17 Jun 2021 14:47:34 -0400</pubDate>
-      
-      <guid>https://durooravsky.github.io/services/</guid>
-      <description>I offer Carbon Bikes frames Repairs at reasonable price
-Here it how it works
- call me at send me picture drop off your bike wait in town for 3h or pickup next day  </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://durooravsky.github.io/about/</link>
-      <pubDate>Thu, 17 Jun 2021 14:46:19 -0400</pubDate>
-      
-      <guid>https://durooravsky.github.io/about/</guid>
-      <description>My name is Peter Patasi and I own carbon material
-Here we go A
- Here we go B</description>
-    </item>
-    
+    <language>en</language><atom:link href="http://www.patasicarbon.ca/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
